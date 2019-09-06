@@ -1,0 +1,45 @@
+.title-search-bar {
+    text-align: center;
+    .search-btn {
+        margin: 3px;
+    }
+    #submit,
+    .trending {
+        margin-bottom: 6px;
+    }
+    .search-bar {
+        margin-top: 0.4rem;
+    }
+}
+
+#results {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.gif-box {
+    margin: 0.5rem;
+    display: inline-block;
+    border: 1px solid black;
+    height: auto;
+    width: auto;
+    img {
+        display: block;
+    }
+    h6 {
+        font-weight: bold;
+        text-align: center;
+    }
+}
+
+body {
+    background-color: #666666;
+}
+
+.gif-box {
+    background-color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white
+
+}
